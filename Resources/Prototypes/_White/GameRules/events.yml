@@ -10,9 +10,9 @@
     #reoccurrenceDelay: 50 # Goobstation - no longer needed
     maxOccurrences: 1 # Goobstation
     chaos:
-      Hostile: 400
-      Medical: 400
-      Death: 400
+      Hostile: 200
+      Medical: 200
+      Death: 300
     eventType: HostilesSpawn
   - type: GameRule
     chaosScore: 400
